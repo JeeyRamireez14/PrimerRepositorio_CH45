@@ -1,49 +1,48 @@
-/* Estilo para el cuerpo del documento */
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4; /* Color de fondo claro */
-    color: #333; /* Color de texto */
-    line-height: 1.6; /* Espaciado entre líneas */
+    background-color: #f4f4f4; 
+    color: #333; 
+    line-height: 1.6; 
     margin: 0;
     padding: 20px;
 }
 
-/* Estilos para los encabezados */
+
 h1 {
-    font-size: 2.5em;
+    font-size: 2.5px;
     
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 2px;
     color: #2980b9;
 
 }
 
 h3 {
-    font-size: 1.75em;
+    font-size: 1.75px;
     color: #27ae60;
 }
 
 h4 {
-    font-size: 1.5em;
+    font-size: 1.5px;
     color: #e67e22;
 }
 
 h5 {
-    font-size: 1.25em;
+    font-size: 1.25px;
     color: #e74c3c;
 }
 
 h6 {
-    font-size: 1em;
+    font-size: 1px;
     color: #95a5a6;
     font-style: italic;
 }
 
-/* Estilo para el párrafo */
 p {
-    font-size: 1em;
+    font-size: 1px;
     color: #34495e;
     background-color: #ecf0f1;
   
