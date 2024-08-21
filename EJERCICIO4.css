@@ -1,46 +1,38 @@
-/* Estilo general para el cuerpo del documento */
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0; /* Fondo gris claro */
-    color: #333; /* Texto color gris oscuro */
-
+    background-color: #f0f0f0; 
+    color: #333; 
 }
 
-/* Estilo para el título principal */
+
 h1 {
     font-size: 2em;
-    color: #2c3e50; /* Azul oscuro */
+    color: #2c3e50; 
 }
 
-/* Estilo para los subtítulos */
+
 h2 {
     font-size: 1.5em;
-    color: #2980b9; /* Azul medio */
-
+    color: #2980b9;
 }
 
 
 
-/* Estilo para listas ordenadas */
 ol {
-    list-style-type: decimal; /* Números decimales */
     margin: 10px 0 10px 20px;
     padding-left: 10px;
 }
 
-
-
-
-/* Estilo para el texto en negrita */
 strong {
-    color: #e74c3c; /* Rojo para resaltar */
+    color: #e74c3c; 
 }
 
-/* Estilo para párrafos */
+
 p {
     font-size: 1em;
     margin: 10px 0;
-    color: #34495e; /* Color gris azulado */
+    color: #34495e; 
 }
 
 
