@@ -5,44 +5,44 @@ body {
     color: #333; 
     line-height: 1.6; 
     margin: 0;
-    padding: 20px;
+    padding: 20em;
 }
 
 
 h1 {
-    font-size: 2.5px;
+    font-size: 2.5em;
     
 }
 
 h2 {
-    font-size: 2px;
+    font-size: 2em;
     color: #2980b9;
 
 }
 
 h3 {
-    font-size: 1.75px;
+    font-size: 1.75em;
     color: #27ae60;
 }
 
 h4 {
-    font-size: 1.5px;
+    font-size: 1.5em;
     color: #e67e22;
 }
 
 h5 {
-    font-size: 1.25px;
+    font-size: 1.25em;
     color: #e74c3c;
 }
 
 h6 {
-    font-size: 1px;
+    font-size: 1.25em;
     color: #95a5a6;
     font-style: italic;
 }
 
 p {
-    font-size: 1px;
+    font-size: 1em;
     color: #34495e;
     background-color: #ecf0f1;
   
