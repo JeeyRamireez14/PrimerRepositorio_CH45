@@ -1,41 +1,40 @@
-/* Estilo general para el cuerpo del documento */
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9; /* Fondo gris claro */
-    color: #333; /* Texto color gris oscuro */
-    margin: 20px; /* Márgenes alrededor del contenido */
-    line-height: 1.6; /* Espaciado entre líneas */
+    background-color: #f9f9f9; 
+    color: #333;
+    margin: 20px; 
+    line-height: 1.6;
 }
 
-/* Estilo para el encabezado principal */
+
 h1 {
     font-size: 2em;
-    color: #2c3e50; /* Azul oscuro */
+    color: #2c3e50;
     text-align: center;
     margin-bottom: 20px;
 }
 
-/* Estilo para los encabezados secundarios */
+
 h2 {
     font-size: 1.5em;
-    color: #2980b9; /* Azul medio */
+    color: #2980b9; 
 
 }
 
-/* Estilo para el texto en negrita */
+
 strong {
-    color: #e74c3c; /* Rojo para resaltar */
+    color: #e74c3c; 
 }
 
-/* Estilo para los párrafos */
+
 p {
     font-size: 1em;
     margin: 10px 0;
 }
 
-/* Estilo para el texto en cursiva */
 em {
-    color: #7f8c8d; /* Gris claro */
+    color: #7f8c8d; 
     font-style: italic;
 }
 
