@@ -1,23 +1,22 @@
-/* Estilo general para el cuerpo del documento */
+
 body {
-    font-family: 'Arial', sans-serif; /* Tipo de letra */
-    background-color: #f0f8ff; /* Fondo color azul claro */
-    color: #333; /* Texto color gris oscuro */
+    font-family: 'Arial', sans-serif; 
+    background-color: #f0f8ff; 
+    color: #333; 
     margin: 0;
-    padding: 20px;
 }
 
-/* Estilo para el título principal (h1) */
+
 h1 {
-    color: #2c3e50; /* Azul oscuro */
+    color: #2c3e50; 
 }
 
-/* Estilo para el subtítulo (h2) */
+
 h2 {
-    color: #2980b9; /* Azul medio */
+    color: #2980b9; 
 }
 
-/* Estilo para los párrafos (p) */
+
 p {
-    color: #34495e; /* Gris azulado */
+    color: #34495e; 
 }
